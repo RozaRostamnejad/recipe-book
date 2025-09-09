@@ -10,6 +10,9 @@
 - onions
 
 
+# I add olives
+- olives
+
 ## Instructions
 
 TODO: these are missing
